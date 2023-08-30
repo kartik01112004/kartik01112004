@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on my prrograming skills and myself!
+- 🌱 I’m currently learning Solidity || Hardhat || Blockchain
+- 💬 Ask me about Flutter || Solidity || Eth
+- 📫 How to reach me: https://www.linkedin.com/in/kartik-goel-a08345251
+- 😄 Pronouns: He/Him
 <!--
 **kartik01112004/kartik01112004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
