@@ -1,4 +1,4 @@
-#WELCOME!
+# WELCOME!
 
 ### Hi there 👋
 - 🔭 I’m currently working on my prrograming skills and myself!
