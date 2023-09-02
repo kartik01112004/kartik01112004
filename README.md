@@ -1,3 +1,5 @@
+#WELCOME!
+
 ### Hi there 👋
 - 🔭 I’m currently working on my prrograming skills and myself!
 - 🌱 I’m currently learning Solidity || Hardhat || Blockchain
