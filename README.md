@@ -1,9 +1,11 @@
 # WELCOME!
 
 ### Hi there 👋 I am Kartik Goel  
-I'm a 2nd year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University.
+I'm a 2nd year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I am learning blockchain technology to convert web2 into web3 dapps.
 
-Core team member at [Developer-Student-Clubs-MMDU](https://github.com/Developer-Student-Clubs-MMDU)
+All i want is to eventualy make something that is groundbreaking for our civilization
+
+
 
 <!-- # About Me!
 
