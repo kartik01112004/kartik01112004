@@ -59,7 +59,12 @@ Design Patterns | Event Driven Architecture (learning)
 MongoDB
 ### ☁️ Cloud
 
-Firebase 
+Firebase, Google Cloud
+
+### Smart contract Development Environments and Toolkits 
+
+Hardhat, Foundry
+
 ### 🌐 DevOps
 
 Linux | Docker (learning)
