@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=kartik01112004&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 I’m currently working on my programing skills and myself!<br>🌱 I’m currently learning <i> <b>Solidity and Hardhat</b></i>  <br>💬 Ask me about<i> <b>Flutter, Solidity, Python, Java, C</b></i><br>😄 Pronouns: He/Him
+🔭 I’m currently working on my programing skills and myself!<br>🌱 I’m currently learning <i> <b>Solidity and Foundry</b></i>  <br>💬 Ask me about<i> <b>Flutter, Solidity, Foundry, Python, Java, C</b></i><br>😄 Pronouns: He/Him
 
  
 ## 🌐 Socials:
