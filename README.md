@@ -10,8 +10,8 @@ My main focus is blockchain, I have deep understanding of **Flutter, JavaScript,
 <!-- # About Me!
 
 - 🔭 I’m currently working on my programing skills and myself!
-- 🌱 I’m currently learning Solidity || Hardhat || Blockchain
-- 💬 Ask me about Flutter || Solidity || Eth || Hardhat || Python || MySQL || Java || C
+- 🌱 I’m currently learning Solidity || Foundry || Blockchain
+- 💬 Ask me about Flutter || Solidity || Eth || Hardhat || Foundry || Python || MySQL || Java || C
 - 📫 How to reach me: https://www.linkedin.com/in/kartik-goel-a08345251
 - 😄 Pronouns: He/Him
 
