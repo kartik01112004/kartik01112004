@@ -1,7 +1,7 @@
 # Welcome
 
 ### Hey there 👋 I am Kartik Goel  
-I'm a 3nd year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I am learning blockchain technology to make security possible.
+I'm a final year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I am learning blockchain technology to make security possible.
 
 All I want is to eventualy make something that is groundbreaking for our civilization
 
